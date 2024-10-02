@@ -83,7 +83,6 @@ matplotlib==3.8.3
 mdurl==0.1.2
 mediapipe==0.10.10
 ml-dtypes==0.2.0
-msvc-runtime==14.34.31931
 multidict==6.0.5
 mysql-connector-python==9.0.0
 namex==0.0.7
